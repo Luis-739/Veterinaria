@@ -2,5 +2,6 @@
 
 ## Subtitulo del proyecto
 Hola Hola
-Prueba3
+![Perro](perro_grande.jpg)
+
 [Link a mi proyecto](https://luis-739.github.io/Veterinaria/)
